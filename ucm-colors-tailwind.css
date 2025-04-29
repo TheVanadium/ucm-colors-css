@@ -1,0 +1,25 @@
+/* https://github.com/TheVanadium/ucm-tailwind-colors/
+   v1.0 | 29 April 2025
+   License: none (public domain)
+*/
+
+@import "tailwindcss";
+
+@theme {
+  /* Primary Colors */
+  --color-bobcat-blue: #0F2D52;
+  --color-bobcat-gold: #DAA900;
+
+  /* Secondary Colors */
+  --color-sierra-sky-blue: #0091B3;
+  --color-golden-wheat: #FFBF3C;
+  --color-deep-sky-blue: #005487;
+  --color-half-dome-slate: #5B5B5B;
+  --color-beginnings-medium-grey: #E5E5E5;
+  --color-beginnings-light-grey: #EFEFEF;
+
+  /* Accent Colors */
+  --color-accent-green: #6BA43A;
+  --color-accent-orange: #F18A00;
+  --color-accent-blue: #99D9D9;
+}
