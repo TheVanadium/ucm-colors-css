@@ -5,6 +5,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        /* https://github.com/TheVanadium/ucm-colors-css/
+           v1.0 | 1 May 2025
+           License: none (public domain)
+        */
         // Primary
         'bobcat-blue': '#0F2D52',
         'bobcat-gold': '#DAA900',
